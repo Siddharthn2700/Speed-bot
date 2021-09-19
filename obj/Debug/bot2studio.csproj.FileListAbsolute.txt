@@ -1,0 +1,10 @@
+C:\coding\C#\bot2studio\bin\Debug\bot2studio.exe.config
+C:\coding\C#\bot2studio\bin\Debug\bot2studio.exe
+C:\coding\C#\bot2studio\bin\Debug\bot2studio.pdb
+C:\coding\C#\bot2studio\obj\Debug\bot2studio.csprojAssemblyReference.cache
+C:\coding\C#\bot2studio\obj\Debug\bot2studio.Form1.resources
+C:\coding\C#\bot2studio\obj\Debug\bot2studio.Properties.Resources.resources
+C:\coding\C#\bot2studio\obj\Debug\bot2studio.csproj.GenerateResource.cache
+C:\coding\C#\bot2studio\obj\Debug\bot2studio.csproj.CoreCompileInputs.cache
+C:\coding\C#\bot2studio\obj\Debug\bot2studio.exe
+C:\coding\C#\bot2studio\obj\Debug\bot2studio.pdb
